@@ -8,3 +8,4 @@ I'm a software developer who is passionate about making open-source more accessi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potapy4&theme=buefy&layout=compact" />
   <img src="https://raw.githubusercontent.com/Potapy4/Potapy4/master/pacman.svg?sanitize=true">
  </p>
+
